@@ -12,19 +12,7 @@ body {
     padding: 0;
 }
 
-#wrapper {
-    padding-top: 40px;
-    position: relative;
-    width: 530px;
-    height: 600px;
-	margin-right: auto;
-	margin-top: 0;
-	margin-left: auto;
-        font-size: 70px;
-        color: pink;
-        text-align: center;
-        font-family: times;
-}
+
 
 div.rele1_ligado {
     position: absolute;
