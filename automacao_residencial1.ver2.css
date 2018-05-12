@@ -1,0 +1,197 @@
+/* 
+    Smart Home
+*/
+
+root { 
+    display: block;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#wrapper {
+    padding-top: 40px;
+    position: relative;
+    width: 705px;
+    height: 950px;
+	margin-right: auto;
+	margin-top: 0;
+	margin-left: auto;
+	background: #A4A4A4;
+        font-size: 70px;
+        color: white;
+        text-align: center;
+        font-family: arial;
+}
+#rodape {
+    padding-top: 40px;
+    position: absolute;
+    width: 705px;
+    height: 200px;
+	top: 850px;
+	margin-right: auto;
+	margin-top: 0;
+	margin-left: auto;
+        font-size: 15px;
+        color: white;
+        text-align: center;
+        font-family: arial;
+}
+	
+div.botao {
+	position: absolute;
+    left: 7px;
+    top: 160px;
+	color: white;
+	background-color: #FA5858;
+	font-family:arial;
+	font-size:30px;
+	padding:10px 40px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #ffffff;
+        width: 260px;
+		height: 260px;
+        text-align: center;
+		line-height: 450px;
+}
+	
+div.botao_ligado {
+	position: absolute;
+    left: 7px;
+    top: 160px;
+	color: white;
+	background-color: #58FA82;
+	font-family:arial;
+	font-size:30px;
+	padding:10px 40px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #ffffff;
+        width: 260px;
+		height: 260px;
+        text-align: center;
+		line-height: 450px;
+}
+div.botao_2 {
+	position: absolute;
+    right: 7px;
+    top: 160px;
+	color: white;
+	background-color: #FA5858;
+	font-family:arial;
+	font-size:30px;
+	padding:10px 40px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #ffffff;
+        width: 260px;
+		height: 260px;
+        text-align: center;
+		line-height: 450px;
+}
+
+div.botao2_ligado {
+	position: absolute;
+    right: 7px;
+    top: 160px;
+	color: white;
+	background-color: #58FA82;
+	font-family:arial;
+	font-size:30px;
+	padding:10px 40px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #ffffff;
+        width: 260px;
+		height: 260px;
+        text-align: center;
+		line-height: 450px;
+}
+
+div.botao_3 {
+	position: absolute;
+    left: 7px;
+    top: 450px;
+	color: white;
+	background-color: #FA8258;
+	font-family:arial;
+	font-size:30px;
+	padding:10px 40px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #ffffff;
+        width: 260px;
+		height: 260px;
+        text-align: center;
+		line-height: 450px;
+}
+
+div.botao3_ligado {
+	position: absolute;
+    left: 7px;
+    top: 450px;
+	color: white;
+	background-color: #58FA82;
+	font-family:arial;
+	font-size:30px;
+	padding:10px 40px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #ffffff;
+        width: 260px;
+		height: 260px;
+        text-align: center;
+		line-height: 450px;
+}
+
+div.botao_4 {
+	position: absolute;
+    right: 7px;
+    top: 450px;
+	color: white;
+	background-color: #FA8258;
+	font-family:arial;
+	font-size:30px;
+	padding:10px 40px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #ffffff;
+        width: 260px;
+		height: 260px;
+        text-align: center;
+		line-height: 450px;
+}
+
+div.botao4_ligado {
+	position: absolute;
+    right: 7px;
+    top: 450px;
+	color: white;
+	background-color: #58FA82;
+	font-family:arial;
+	font-size:30px;
+	padding:10px 40px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #ffffff;
+        width: 260px;
+		height: 260px;
+        text-align: center;
+		line-height: 450px;
+}
+
+}.botao:active {
+	position:relative;
+	top:1px;
+}
+
+}.botao_2:active {
+	position:relative;
+	top:1px;
+}
+
+}.botao_3:active {
+	position:relative;
+	top:1px;
+}
+
+}.botao_4:active {
+	position:relative;
+	top:1px;
+}
+
